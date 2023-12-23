@@ -8,4 +8,4 @@ Streamlit ToDo CRUD App
 + Delete
 
 # APP is live on:
-https://todo-crud-app-8vhg6jtbuxhhctxnwmhnzq.streamlit.app/
+https://todo-crud-app-8cdadrswwlv5wzpsf6zvnn.streamlit.app/
