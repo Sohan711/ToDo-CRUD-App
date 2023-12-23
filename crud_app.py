@@ -6,11 +6,7 @@ import streamlit.components.v1 as stc
 import plotly.express as px
 
 
-# Data Viz Pkgs
-import plotly.express as px 
-import matplotlib.pyplot as plt 
-import matplotlib
-matplotlib.use('Agg')
+
 
 # DB fxn
 from db_fxns import create_table,add_data,view_all_data,get_task,view_unique_task,edit_task_data,delete_data
