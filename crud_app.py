@@ -1,11 +1,7 @@
 import streamlit as st
 
 import pandas as pd 
-from db_fxns import * 
 
-
-# DB fxn
-from db_fxns import create_table,add_data,view_all_data,get_task,view_unique_task,edit_task_data,delete_data
 
 About = """
 Our CRUD (Create, Read, Update, Delete) application is a powerful tool designed to manage data efficiently. It provides essential functionalities to perform operations on a dataset or database:
